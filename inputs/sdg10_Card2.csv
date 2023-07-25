@@ -1,0 +1,105 @@
+countrycode,countryname,regionname,ib,regionmean_ib,n
+PHL,Philippines,East Asia and Pacific,4.567668,8.486824,.07692308
+MYS,Malaysia,East Asia and Pacific,4.8048201,8.486824,.15384616
+IDN,Indonesia,East Asia and Pacific,6.5690408,8.486824,.23076923
+VNM,Vietnam,East Asia and Pacific,7.233685,8.486824,.30769232
+FJI,Fiji,East Asia and Pacific,7.6213322,8.486824,.38461539
+THA,Thailand,East Asia and Pacific,7.7007151,8.486824,.46153846
+WSM,Samoa,East Asia and Pacific,8.4013634,8.486824,.53846157
+CHN,China,East Asia and Pacific,8.4335098,8.486824,.61538464
+TON,Tonga,East Asia and Pacific,9.7752542,8.486824,.69230771
+MMR,Myanmar,East Asia and Pacific,10.185716,8.486824,.76923078
+VUT,Vanuatu,East Asia and Pacific,11.38515,8.486824,.84615386
+KHM,Cambodia,East Asia and Pacific,11.754159,8.486824,.92307693
+LAO,Lao PDR,East Asia and Pacific,11.896294,8.486824,1
+AZE,Azerbaijan,Europe and Central Asia,.99666703,5.2320733,.041666668
+GEO,Georgia,Europe and Central Asia,1.098,5.2320733,.083333336
+KAZ,Kazakhstan,Europe and Central Asia,1.398,5.2320733,.125
+BLR,Belarus,Europe and Central Asia,1.598,5.2320733,.16666667
+UZB,Uzbekistan,Europe and Central Asia,1.75,5.2320733,.20833333
+LVA,Latvia,Europe and Central Asia,3.666667,5.2320733,.25
+POL,Poland,Europe and Central Asia,3.736047,5.2320733,.29166666
+EST,Estonia,Europe and Central Asia,4.166667,5.2320733,.33333334
+ROU,Romania,Europe and Central Asia,4.3461351,5.2320733,.375
+KGZ,Kyrgyz Republic,Europe and Central Asia,4.5116572,5.2320733,.41666666
+ARM,Armenia,Europe and Central Asia,5.0981312,5.2320733,.45833334
+MDA,Moldova,Europe and Central Asia,5.6055188,5.2320733,.5
+UKR,Ukraine,Europe and Central Asia,6.3677478,5.2320733,.54166669
+LTU,Lithuania,Europe and Central Asia,6.3916039,5.2320733,.58333331
+HRV,Croatia,Europe and Central Asia,6.870996,5.2320733,.625
+SRB,Serbia,Europe and Central Asia,7.2065129,5.2320733,.66666669
+TJK,Tajikistan,Europe and Central Asia,7.2093492,5.2320733,.70833331
+TUR,Turkiye,Europe and Central Asia,7.2566071,5.2320733,.75
+BIH,Bosnia and Herzegovina,Europe and Central Asia,7.266685,5.2320733,.79166669
+XKX,Kosovo,Europe and Central Asia,7.2710929,5.2320733,.83333331
+MKD,North Macedonia,Europe and Central Asia,7.411428,5.2320733,.875
+BGR,Bulgaria,Europe and Central Asia,7.5893221,5.2320733,.91666669
+HUN,Hungary,Europe and Central Asia,8.1673555,5.2320733,.95833331
+ALB,Albania,Europe and Central Asia,8.5895729,5.2320733,1
+SLV,El Salvador,Latin America and Caribbean,2.8538461,5.9934549,.052631579
+GTM,Guatemala,Latin America and Caribbean,3.9422109,5.9934549,.10526316
+PAN,Panama,Latin America and Caribbean,3.9527271,5.9934549,.15789473
+MEX,Mexico,Latin America and Caribbean,4.1795669,5.9934549,.21052632
+NIC,Nicaragua,Latin America and Caribbean,4.4388099,5.9934549,.2631579
+HND,Honduras,Latin America and Caribbean,4.5808792,5.9934549,.31578946
+ECU,Ecuador,Latin America and Caribbean,4.802712,5.9934549,.36842105
+COL,Colombia,Latin America and Caribbean,4.9419508,5.9934549,.42105263
+DOM,Dominican Republic,Latin America and Caribbean,5.917232,5.9934549,.47368422
+BOL,Bolivia,Latin America and Caribbean,5.980619,5.9934549,.52631581
+PER,Peru,Latin America and Caribbean,6.1580071,5.9934549,.57894737
+CRI,Costa Rica,Latin America and Caribbean,6.6008692,5.9934549,.63157892
+JAM,Jamaica,Latin America and Caribbean,6.8954639,5.9934549,.68421054
+BRA,Brazil,Latin America and Caribbean,6.896534,5.9934549,.7368421
+SUR,Suriname,Latin America and Caribbean,7.0550342,5.9934549,.78947371
+HTI,Haiti,Latin America and Caribbean,7.2187171,5.9934549,.84210527
+GUY,Guyana,Latin America and Caribbean,7.7526708,5.9934549,.89473683
+PRY,Paraguay,Latin America and Caribbean,9.1744595,5.9934549,.94736844
+CUB,Cuba,Latin America and Caribbean,10.533334,5.9934549,1
+EGY,"Egypt, Arab Rep.",Middle East and North Africa,4.9250278,9.4240704,.125
+JOR,Jordan,Middle East and North Africa,5.3991499,9.4240704,.25
+YEM,"Yemen, Rep.",Middle East and North Africa,5.4087529,9.4240704,.375
+MAR,Morocco,Middle East and North Africa,6.4434972,9.4240704,.5
+TUN,Tunisia,Middle East and North Africa,8.6940985,9.4240704,.625
+DZA,Algeria,Middle East and North Africa,10.519145,9.4240704,.75
+LBN,Lebanon,Middle East and North Africa,10.849372,9.4240704,.875
+SYR,Syrian Arab Republic,Middle East and North Africa,23.153521,9.4240704,1
+PAK,Pakistan,South Asia,4.0194039,5.4849162,.16666667
+LKA,Sri Lanka,South Asia,4.4815741,5.4849162,.33333334
+NPL,Nepal,South Asia,4.5378742,5.4849162,.5
+BGD,Bangladesh,South Asia,4.5709252,5.4849162,.66666669
+IND,India,South Asia,5.4060431,5.4849162,.83333331
+AFG,Afghanistan,South Asia,9.8936758,5.4849162,1
+CMR,Cameroon,Sub-Saharan Africa,3.631707,9.6367788,.029411765
+MLI,Mali,Sub-Saharan Africa,4.244462,9.6367788,.05882353
+LBR,Liberia,Sub-Saharan Africa,4.311666,9.6367788,.088235296
+SEN,Senegal,Sub-Saharan Africa,4.5116301,9.6367788,.11764706
+COM,Comoros,Sub-Saharan Africa,4.5658302,9.6367788,.14705883
+CIV,Cote d'Ivoire,Sub-Saharan Africa,4.615798,9.6367788,.17647059
+TGO,Togo,Sub-Saharan Africa,6.0468488,9.6367788,.20588236
+ETH,Ethiopia,Sub-Saharan Africa,6.8893981,9.6367788,.23529412
+NGA,Nigeria,Sub-Saharan Africa,7.0658178,9.6367788,.2647059
+GHA,Ghana,Sub-Saharan Africa,7.4253888,9.6367788,.29411766
+ERI,Eritrea,Sub-Saharan Africa,7.4704862,9.6367788,.32352942
+LSO,Lesotho,Sub-Saharan Africa,8.0245438,9.6367788,.35294119
+ZAF,South Africa,Sub-Saharan Africa,8.1423149,9.6367788,.38235295
+CPV,Cabo Verde,Sub-Saharan Africa,8.229126,9.6367788,.41176471
+SWZ,Eswatini,Sub-Saharan Africa,8.345377,9.6367788,.44117647
+KEN,Kenya,Sub-Saharan Africa,8.448205,9.6367788,.47058824
+SOM,Somalia,Sub-Saharan Africa,8.4982319,9.6367788,.5
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,8.8733139,9.6367788,.52941179
+SDN,Sudan,Sub-Saharan Africa,8.903512,9.6367788,.55882353
+SSD,South Sudan,Sub-Saharan Africa,8.9080906,9.6367788,.58823532
+GMB,"Gambia, The",Sub-Saharan Africa,9.1584663,9.6367788,.61764705
+TZA,Tanzania,Sub-Saharan Africa,9.4827442,9.6367788,.64705884
+MDG,Madagascar,Sub-Saharan Africa,9.7800369,9.6367788,.67647058
+SLE,Sierra Leone,Sub-Saharan Africa,9.8166122,9.6367788,.70588237
+RWA,Rwanda,Sub-Saharan Africa,9.886692,9.6367788,.7352941
+ZWE,Zimbabwe,Sub-Saharan Africa,9.9287567,9.6367788,.7647059
+UGA,Uganda,Sub-Saharan Africa,10.90573,9.6367788,.79411763
+MOZ,Mozambique,Sub-Saharan Africa,12.50225,9.6367788,.82352942
+ZMB,Zambia,Sub-Saharan Africa,13.571067,9.6367788,.85294116
+MWI,Malawi,Sub-Saharan Africa,16.258596,9.6367788,.88235295
+BEN,Benin,Sub-Saharan Africa,17.350254,9.6367788,.91176468
+NAM,Namibia,Sub-Saharan Africa,19.093863,9.6367788,.94117647
+BWA,Botswana,Sub-Saharan Africa,20.727665,9.6367788,.97058821
+AGO,Angola,Sub-Saharan Africa,22.035992,9.6367788,1
