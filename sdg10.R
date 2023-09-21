@@ -24,7 +24,7 @@ input.dir <- paste0(sdg.dir, "inputs/" )
 charts.dir <- paste0(sdg.dir, "charts/" )
 
 source(paste0(sdg.dir,"styles.R"))
-stye<- style_atlas()
+style<- style_atlas()
 
 # Get region info/unique code from wbstat
 rg.ctr <- wb_countries()
